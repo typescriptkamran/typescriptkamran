@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kamran</h1>
 <h3 align="center">Student at PIAIC Batch 47 in Lahore</h3>
-<img align = "righ" alt = "Typescript insights" width = "400" src=''https://miro.medium.com/v2/resize:fit:720/1*_E2dVmpJrXMatDRiPw0hyg.gif">
+<img align = "righ" alt = "Typescript insights" width = "400" src="https://miro.medium.com/v2/resize:fit:720/1*_E2dVmpJrXMatDRiPw0hyg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=typescriptkamran&label=Profile%20views&color=0e75b6&style=flat" alt="typescriptkamran" /> </p>
 
