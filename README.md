@@ -2,7 +2,7 @@
 <h3 align="center">Student at PIAIC Batch 47 in Lahore</h3>
 <img align = "righ" alt = "Typescript insights" width = "300" src="https://miro.medium.com/v2/resize:fit:720/1*_E2dVmpJrXMatDRiPw0hyg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=typescriptkamran&label=Profile%20views&color=0e75b6&style=flat" alt="typescriptkamran" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=typescriptkamran&label=Profile%20views&color=0e75b6&style=flat" alt="typescriptkamran" /> </p>
 
 - 🔭 I’m currently learning Typescript and helping my fellow classmates with my YouTube channel [Typescript Insights with Kamran](https://www.youtube.com/@typescriptwithkamran)
 
