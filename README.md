@@ -1,7 +1,7 @@
 ![logo](https://github.com/typescriptkamran/typescriptkamran/blob/main/png_20230801_181243_0000.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Kamran</h1>
-<h3 align="center">Student at PIAIC Batch 47 in Lahore</h3>
+<h3 align="left">Student at PIAIC Batch 47 in Lahore</h3>
 <img align = "right" alt = "Typescript insights" width = "300" src="https://miro.medium.com/v2/resize:fit:720/1*_E2dVmpJrXMatDRiPw0hyg.gif">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=typescriptkamran&label=Profile%20views&color=0e75b6&style=flat" alt="typescriptkamran" /> </p>
