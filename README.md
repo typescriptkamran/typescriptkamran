@@ -1,4 +1,4 @@
-![logo](https://github.com/typescriptkamran/typescriptkamran/blob/main/Logo%20typescript%20Kamran.jpg)
+![logo](https://raw.githubusercontent.com/typescriptkamran/typescriptkamran/main/20230905_184758_0000.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Kamran</h1>
 <h3 align="left">Student at PIAIC Batch 47 in Lahore</h3>
