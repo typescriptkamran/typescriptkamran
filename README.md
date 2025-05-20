@@ -1,6 +1,8 @@
 ![logo](https://raw.githubusercontent.com/typescriptkamran/typescriptkamran/main/Logo%20typescript%20Kamran.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Kamran</h1>
+I am a passionate **TypeScript Developer**, **AI Agent Developer**, and **Next.js 15** enthusiast. I build innovative web applications and AI-powered solutions at [kamranbuilds.com](https://kamranbuilds.com). ## Skills & Technologies - TypeScript & JavaScript - Next.js 15 - AI Agent Development - React, Node.js Check out my projects below and connect with me!
+
 <h3 align="left">Student at PIAIC Batch 47 in Lahore</h3>
 <img align = "right" alt = "Typescript insights" width = "300" src="https://miro.medium.com/v2/resize:fit:720/1*_E2dVmpJrXMatDRiPw0hyg.gif">
 
